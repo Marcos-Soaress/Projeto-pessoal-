@@ -58,5 +58,3 @@ O objetivo principal do projeto é colocar em prática os conhecimentos de **ló
 ## 👨‍💻 Desenvolvedor
 
 **Marcos Soares**
-
-Projeto desenvolvido para estudos de **JavaScript e lógica de programação**.
